@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hero-bg{
+  background-image: url(./img/ltotbngnzzu.jpg);
+}
+
+.card-bg{
+  background-image: url(./img/bgsite.jpg);
+}
